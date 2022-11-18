@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/96058327/202086495-c2eaec2b-cf0c-4541-8aba-4e8d90f1b466.png">
+<img align="center" alt="Coding"  width="1100" src="https://www.iscistech.in/image/software-testing-banner-iscistech-business-solution-india.jpg">
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
