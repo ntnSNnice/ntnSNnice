@@ -1,9 +1,10 @@
+<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/96058327/202086495-c2eaec2b-cf0c-4541-8aba-4e8d90f1b466.png">
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2542587-Third-Winner-of-Toptal-s-STEM-Scholarships-for-Women&psig=AOvVaw0icPEQYS_jEzQo_jSiVu_Z&ust=1668870961992000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC_ppODuPsCFQAAAAAdAAAAABAY)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muftain1610&label=Profile%20views&color=0e75b6&style=flat" alt="muftain1610" /> </p>
