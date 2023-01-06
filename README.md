@@ -13,11 +13,13 @@
 
 🌱 I’m currently learning **Automation Testing**
 
-💬 Ask me about **Software QA, Manual testing, Automation testing**
+💬 Ask me about **Manual testing, API testing, Performance testing, Database testing, Automation testing**
 
 📫 How to reach me **You can send me email : nafishatamannan1807@gmail.com**
 
-📄 Know about my experiences [https://cutt.ly/5MDacta]
+📄 Check out my resume [https://cutt.ly/F2b52Ir]
+
+👉 Check out all my projects [https://github.com/ntnSNnice?tab=repositories]
 
 
 <h2 align="left">Skills & Proficiencies</h2>
