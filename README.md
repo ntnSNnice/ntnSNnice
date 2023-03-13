@@ -28,22 +28,33 @@
 
 📗 API Testing Tool: Postman
 
-📕 Security Testing Tool: Nmap
+📗 Security Testing Tool: Nmap
 
-📕 Programming Language: Java, Python, C,C++, JavaScript, HTML, CSS
+📗 Project Management Tool: Jira
 
-📗 Tools & Framework: Jmeter, GitHub
+📗 Database Tool: MySql
 
-📔 IDE: VS Code, Eclipse, Code Blocks, Google Colab
+📗 Software Development concepts: SDLC, STLC
 
-📓 Database: MySql
+📗 Web Automation Tool: Selenium with Java
 
-📙 Agile Methodology & Project Management: Jira
+📗 Mobile Automation Tool: Appium
 
-📒 Operating System: Windows, Linux
+📗 BDD Tool: Cucumber
+
+📗 CI / CD Tool: Jenkins
+
+📗 IDE: Intellij, Eclipse
+
+📗 Source and version control Tool: Git
+
+📗 Programming Language: Java,C,C++, JavaScript, HTML, CSS
+
+📗 Agile Methodology & Project Management: Jira
+
+📗 Operating System: Windows, Linux
 
 📚 Concepts: OOP, SDLC, STLC
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nafishatamannanice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muftain1610" height="30" width="40" /></a>
