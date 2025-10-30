@@ -23,36 +23,22 @@
 
 
 <h2 align="left">Skills & Proficiencies</h2>
-📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+📘 Manual Testing: Requirement Analysis, Test Design & Planning, Test Case Writing & Review, Test Execution & Evaluation, Test Reporting, Root Cause Analysis, Bug Reporting
+
 📗 Performance Testing Tool: JMeter
-
 📗 API Testing Tool: Postman
-
 📗 Security Testing Tool: Nmap
-
-📗 Project Management Tool: Jira
-
-📗 Database Tool: MySql
-
-📗 Software Development concepts: SDLC, STLC
-
-📗 Web Automation Tool: Selenium with Java
-
+📗 Project Management Tool: Jira, ClickUp, OneSuite
+📗 Database Tool: MySQL
+📗 Web Automation Tools: Selenium (Java), Cypress (JavaScript)
 📗 Mobile Automation Tool: Appium
-
-📗 BDD Tool: Cucumber
-
-📗 CI / CD Tool: Jenkins
-
-📗 IDE: Intellij, Eclipse
-
-📗 Source and version control Tool: Git
-
-📗 Programming Language: Java,C,C++, JavaScript, HTML, CSS
-
-📗 Agile Methodology & Project Management: Jira
-
-📗 Operating System: Windows, Linux
+📗 BDD Framework: Cucumber
+📗 CI/CD Tool: Jenkins
+📗 IDE: IntelliJ IDEA, Eclipse
+📗 Version Control: Git & GitHub
+📗 Programming Languages: Java, JavaScript, C, C++, HTML, CSS
+📗 Methodologies & Concepts: Agile, SDLC, STLC, OOP
+📗 Operating Systems: Windows, Linux
 
 📚 Concepts: OOP, SDLC, STLC
 <h3 align="left">Connect with me:</h3>
