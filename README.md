@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="1100" src="C:\Users\mufta\Downloads\Cute girl _files\cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487(1).jpg">
+<img align="center" alt="Coding" width="1100" src="![png-little-girl-with-computer-cartoon-laptop-cup_53876-784879](https://github.com/user-attachments/assets/7d1983c6-ca8c-4ae7-b287-3f4b5664a454)
+">
 
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
