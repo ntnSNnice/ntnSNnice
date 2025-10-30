@@ -25,6 +25,7 @@
 <h2 align="left">Skills & Proficiencies</h2>
 📘 Manual Testing: Requirement Analysis, Test Design & Planning, Test Case Writing & Review, Test Execution & Evaluation, Test Reporting, Root Cause Analysis, Bug Reporting
 
+
 📗 Performance Testing Tool: JMeter
 
 📗 API Testing Tool: Postman
