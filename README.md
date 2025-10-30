@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  width="1100" src="https://www.iscistech.in/image/software-testing-banner-iscistech-business-solution-india.jpg">
+<img align="center" alt="Coding"  width="1100" src="[https://www.iscistech.in/image/software-testing-banner-iscistech-business-solution-india.jpg](https://www.freepik.com/free-photos-vectors/girl-coding-cartoon)">
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
