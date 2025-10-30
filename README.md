@@ -1,4 +1,5 @@
-<img align="center" alt="Coding"  width="1100" src="https://prnt.sc/0JKLLTuT3qyp">
+<img align="center" alt="Coding" width="1100" src="assets/developer-illustration.jpg">
+
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
