@@ -1,4 +1,7 @@
 <img align="center" alt="Coding" width="1100" src="assets/developer-illustration.jpg">
+<p align="center">
+  <img align="center" alt="Coding" width="1100" src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_382674220.jpg">
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
