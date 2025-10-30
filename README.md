@@ -26,18 +26,31 @@
 📘 Manual Testing: Requirement Analysis, Test Design & Planning, Test Case Writing & Review, Test Execution & Evaluation, Test Reporting, Root Cause Analysis, Bug Reporting
 
 📗 Performance Testing Tool: JMeter
+
 📗 API Testing Tool: Postman
+
 📗 Security Testing Tool: Nmap
+
 📗 Project Management Tool: Jira, ClickUp, OneSuite
+
 📗 Database Tool: MySQL
+
 📗 Web Automation Tools: Selenium (Java), Cypress (JavaScript)
+
 📗 Mobile Automation Tool: Appium
+
 📗 BDD Framework: Cucumber
+
 📗 CI/CD Tool: Jenkins
+
 📗 IDE: IntelliJ IDEA, Eclipse
+
 📗 Version Control: Git & GitHub
+
 📗 Programming Languages: Java, JavaScript, C, C++, HTML, CSS
+
 📗 Methodologies & Concepts: Agile, SDLC, STLC, OOP
+
 📗 Operating Systems: Windows, Linux
 
 📚 Concepts: OOP, SDLC, STLC
