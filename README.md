@@ -9,8 +9,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muftain1610&label=Profile%20views&color=0e75b6&style=flat" alt="muftain1610" /> </p>
-
 🔭 I’m currently working on **Manual Testing**
 
 🌱 I’m currently learning **Automation Testing**
