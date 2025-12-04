@@ -68,12 +68,13 @@
 
   <!-- Testing Tools -->
   <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40" height="40" alt="Cypress"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40" alt="Cypress"/>
+  <img src="https://jmeter.apache.org/images/jmeter.png" width="40" height="40" alt="JMeter"/>
 
-  <!-- Others -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+  <!-- API & Other Tools -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
 
 </p>
 
