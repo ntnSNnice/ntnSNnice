@@ -1,10 +1,13 @@
-<img src="C:\Users\mufta\Downloads\Cute girl _files\cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487(1).jpg" width="200"/>
+<img src="assets/coding.gif" width="250" alt="Coding Animation" width="400" src="C:\Users\mufta\Downloads\Cute girl _files\cute-girl.jpg">
+
 
 
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="C:\Users\mufta\Downloads\Cute girl _files\cute-girl.jpg">
+
+
 
 
 
