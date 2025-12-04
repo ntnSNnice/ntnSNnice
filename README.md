@@ -73,13 +73,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  🖥️💻 GitHub Activity Stats 📈📊
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ntnSNnice&show_icons=true&locale=en&hide_title=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntnSNnice&layout=compact&hide_title=true&theme=dark" width="48%" />
 </p>
 
 <p align="center">
-  🔥👩‍💻 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntnSNnice&theme=dark" width="48%" /> 🌟💡
+  🔥👩‍💻 Streak Stats 🌟💡
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntnSNnice&theme=dark" width="48%" />
+</p>
+
 
 ---
 
