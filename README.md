@@ -80,9 +80,6 @@
 <p align="center">
   🔥👩‍💻 Streak Stats 🌟💡
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntnSNnice&theme=dark" width="48%" />
-</p>
 
 
 ---
