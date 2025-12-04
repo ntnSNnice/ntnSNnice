@@ -69,7 +69,7 @@
   <!-- Testing Tools -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40" alt="Cypress"/>
   <img src="https://jmeter.apache.org/images/jmeter.png" width="40" height="40" alt="JMeter"/>
-  <img src="https://www.svgrepo.com/show/354320/selenium.svg" width="40" height="40" alt="Selenium"/>
+  <img src="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-logo.png" width="40" height="40" alt="Eclipse Logo">
 
   <!-- API & Other Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
