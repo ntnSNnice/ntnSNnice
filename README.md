@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cute-girl.jpg" width="30" height="30" alt="Coding Emoji" />
+  <img src="https://i.imgur.com/yourImageID.jpg" width="30" height="30" alt="Coding Emoji" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
