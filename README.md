@@ -5,14 +5,17 @@
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="300" src="assets/profile.jpg">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ntnSNnice&show_icons=true&locale=en" />
+</p>
 
-🔭 I’m currently working on **Manual Testing**  
-🌱 I’m currently learning **Automation Testing**  
-💬 Ask me about **Manual testing, API testing, Performance testing, Database testing, Automation testing**  
+
+💻 I’m currently working on **Manual Testing**  
+🤖 I’m currently learning **Automation Testing**  
+💬 Ask me about **Manual testing, API testing, Performance testing, Database testing, Automation testing**   
 📫 Reach me at **nafishatamannan1807@gmail.com**  
-📄 Check out my resume: [https://cutt.ly/LtuHt415]  
-👉 All my projects: [https://github.com/ntnSNnice?tab=repositories]  
+📄 [Resume](https://cutt.ly/LtuHt415)  
+👉 [Projects](https://github.com/ntnSNnice?tab=repositories)
 
 ---
 
