@@ -6,10 +6,6 @@
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
-<p align="center">
-  <img src="C:/Users/mufta/Downloads/Cute girl _files/cute-girl.jpg" width="30" height="30" alt="Coding Emoji" />
-</p>
-
 
 💻 I’m currently working on **Manual Testing**  
 🤖 I’m currently learning **Automation Testing**  
