@@ -1,5 +1,5 @@
 <p align="center">
- <img src="C:/Users/mufta/Downloads/Cute girl _files/cute-girl.jpg" width="30" height="30" alt="Coding Emoji" />
+  <img src="assets/cute-girl.jpg" width="30" height="30" alt="Coding Emoji" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
