@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/68/de/16/68de16c5f54dd9b4ff354af4acf39a42.jpg" width="150" alt="Coding Cute Girl" />
+  <img src="https://i.imgur.com/yourGifID.gif" width="150" alt="Coding Girl" />
 </p>
 
 
