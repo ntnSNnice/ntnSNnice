@@ -67,7 +67,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 
   <!-- Testing Tools -->
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40" alt="Cypress"/>
   <img src="https://jmeter.apache.org/images/jmeter.png" width="40" height="40" alt="JMeter"/>
 
