@@ -11,7 +11,7 @@
 🌱 I’m currently learning **Automation Testing**  
 💬 Ask me about **Manual testing, API testing, Performance testing, Database testing, Automation testing**  
 📫 Reach me at **nafishatamannan1807@gmail.com**  
-📄 Check out my resume: [https://cutt.ly/F2b52Ir]  
+📄 Check out my resume: [https://cutt.ly/LtuHt415]  
 👉 All my projects: [https://github.com/ntnSNnice?tab=repositories]  
 
 ---
