@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/yourGifID.gif" width="150" alt="Coding Girl" />
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="150" alt="Coding Girl" />
 </p>
 
 
