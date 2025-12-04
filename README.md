@@ -72,13 +72,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntnSNnice&show_icons=true&locale=en&hide_title=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntnSNnice&layout=compact&hide_title=true&theme=dark" width="48%" />
-</div>
-
 <p align="center">
   🔥👩‍💻 Streak Stats 🌟💡
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntnSNnice&theme=dark" width="48%" />
 </p>
 
 
