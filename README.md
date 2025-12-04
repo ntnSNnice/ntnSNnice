@@ -12,7 +12,7 @@
 🤖 Learning **Automation Testing (Cypress & Selenium)**  
 💬 Ask me about **Manual testing, API testing, Performance testing, Database testing, Automation testing**  
 📫 Reach me at **[nafishatamannan1807@gmail.com](mailto:nafishatamannan1807@gmail.com)**  
-📄 Resume: [Download](https://cutt.ly/F2b52Ir)  
+📄 Resume: [Download](https://cutt.ly/LtuHt415)  
 👉 Projects: [GitHub Repositories](https://github.com/ntnSNnice?tab=repositories)
 
 ---
