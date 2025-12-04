@@ -6,7 +6,7 @@
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntnSNnice&show_icons=true&locale=en" />
+  <img src="C:/Users/mufta/Downloads/Cute girl _files/cute-girl.jpg" width="30" height="30" alt="Coding Emoji" />
 </p>
 
 
