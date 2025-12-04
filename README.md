@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/yourImageID.jpg" width="30" height="30" alt="Coding Emoji" />
+  <img src="https://i.pinimg.com/736x/68/de/16/68de16c5f54dd9b4ff354af4acf39a42.jpg" width="150" alt="Coding Cute Girl" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Nafisha Tamanna Nice</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
